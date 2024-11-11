@@ -1,3 +1,8 @@
+#Exclude API Credential for testing
+credentials_config.json
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
