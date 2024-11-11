@@ -38,7 +38,7 @@ jobs:
 
     - name: Test with pytest
       run: |
-        pytest
+        pytest .\EarthPicture\tests\
 
     - name: Build Documentation with Sphinx
       run: |
