@@ -25,3 +25,27 @@ Clone the repository and install the required packages with `pip`:
 git clone https://github.com/yourusername/EarthPicture.git
 cd EarthPicture
 pip install -r requirements.txt
+```
+
+## Contributors
+
+We welcome contributions from the community to help expand and improve EarthPicture! Whether it’s adding new features, enhancing documentation, or fixing bugs, all types of contributions are appreciated.
+
+### How to Contribute
+
+1. **Fork the repository**: This allows you to make changes on your own copy of the project.
+2. **Create a branch**: Use a descriptive branch name such as `feature/add-time-lapse-function` or `fix/credential-bug`.
+3. **Make your changes**: Implement your feature or fix in your branch.
+4. **Write tests and update documentation**: Ensure your changes are tested and documented where appropriate.
+5. **Submit a pull request**: Once you’re happy with your changes, open a pull request to the `main` branch of the original repository.
+
+Please ensure that your contributions adhere to our coding standards and that all tests pass. Feel free to reach out if you have any questions or need help getting started.
+
+### Acknowledgments
+
+A big thank you to everyone who has contributed to EarthPicture! Together, we’re making it easier for researchers and enthusiasts to access and visualize satellite imagery for climate studies.
+
+---
+
+Let’s build a strong community around open-access satellite data and climate study tools!
+
